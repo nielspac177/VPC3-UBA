@@ -18,7 +18,7 @@ Contiene un archivo jupyter con la resolución de los ejercicios.
 
 TP3
 Contiene un archivo jupyter con la resolución de los ejercicios.
-[Trabajo Practico 2](https://github.com/nielspac177/VPC3-UBA/blob/c6d5c5bee9188a46e78b4fce871da34e19b06439/TP3_Niels_Pacheco.ipynb).
+[Trabajo Practico 3](https://github.com/nielspac177/VPC3-UBA/blob/c6d5c5bee9188a46e78b4fce871da34e19b06439/TP3_Niels_Pacheco.ipynb).
 
 El archivo tiene que ser descargardo para poder visualizarse
 
