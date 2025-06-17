@@ -28,4 +28,4 @@ Contiene un archivo jupyter con la resolución de los ejercicios.
 # Notas adicionales
 
 Los entornos virtuales y archivos generados automáticamente han sido excluidos mediante .gitignore.
-Repositorio desarrollado por: Niels Pacheco
+Repositorio desarrollado por: Niels Pacheco (a1622)
